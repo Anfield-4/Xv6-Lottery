@@ -1,1 +1,2 @@
-# heart_as_big_as_liv
+# Xv6-Lottery adding a ticks-counter.
+# 
