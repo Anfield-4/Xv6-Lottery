@@ -14,9 +14,9 @@ Two system calls, *getsumticks()* (to monitor value of sumticks and terminate th
 *main* process set 10 tickets, wait() for the child process, and then exit(). *main* process forks() three processes, sets 10, 20, and 30 tickets respectively, and makes each of them in the while(1) loop until sumticks reaches a certain value, then prints the information, kill() the process and exit().
 
 ## Operations in Ubuntu OS:  
-> make
-> make qemu
-$ test
+> make  
+> make qemu  
+> $ test
 
 ## xv6-lottery.fig:  
 It's a MATLAB figure of ticks obtained by each process in one scheduling.
