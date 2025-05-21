@@ -1,4 +1,4 @@
-# Adding a Lottery Scheduler to Xv6-kernel
+# Adding a Lottery Scheduler to Xv6
 
 ## Involved documents:  
 **Add**: pstat.h test.c  
